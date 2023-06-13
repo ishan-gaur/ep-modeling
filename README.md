@@ -1,5 +1,7 @@
 # ep-modeling
 
+The required packages can be installed with pip install -r requirements. It's recommended to do this in a new virtualenv or conda env.
+
 There are three files in this repository.
 
 main.py houses some scripts to look at the enhancer-promoter contacts at the HBG locus.
